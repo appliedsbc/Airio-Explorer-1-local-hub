@@ -1,4 +1,4 @@
-# Airio-Explorer-1-local-hub.ino
+# Airio-Explorer-1-local-hub.ino by Airio™
 The stock firmware that ships on Airio Explorer 1
 
 Runs on an Arduino Nano 33 IoT
